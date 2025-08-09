@@ -1,9 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"npj":
+  url: https://www.nature.com/npjcompumats/
+  color: "#5418ba"
+
+"ACS":
+  url: https://www.acs.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Device":
+  url: https://www.cell.com/device/home
+  color: "#0b610b"
 
-"Vision":
-  color: "#009f36"
+"CEJ":
+  url: https://www.sciencedirect.com/journal/chemical-engineering-journal
+  color: "#8a8c0b"
+
+"ECM":
+  url: https://www.sciencedirect.com/journal/energy-conversion-and-management
+  color: "#c77408"
