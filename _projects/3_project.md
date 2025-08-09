@@ -35,5 +35,3 @@ We further explored mechanisms to increase fuel savings by demonstrating on a la
         {% include figure.liquid path="assets/img/parallel_results.png" title="segmentation methods" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-{% endraw %}
