@@ -246,8 +246,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Lin]
+  first_name: [Emily]
 
   style: apa
   locale: en
