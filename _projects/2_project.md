@@ -3,7 +3,7 @@ layout: page
 title: catalytic micro-combustion
 description: driving desorption in atmospheric water harvesters with energy-dense, autothermal combustion
 img: assets/img/12.jpg
-importance: 2
+importance: 1
 category: machine learning
 related_publications: true
 ---
