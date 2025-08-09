@@ -28,16 +28,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-i-was-awarded-the-national-science-foundation-graduate-research-fellowship-nsf-grfp-to-pursue-my-research-at-mit",
           title: 'I was awarded the National Science Foundation Graduate Research Fellowship (NSF GRFP) to...',
+          description: "",
+          section: "News",},{id: "news-i-started-my-internship-at-bristol-myers-squibb-as-a-machine-learning-intern",
+          title: 'I started my internship at Bristol Myers Squibb as a machine learning intern!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
