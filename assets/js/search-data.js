@@ -28,10 +28,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-was-awarded-the-national-science-foundation-graduate-research-fellowship-nsf-grfp-to-pursue-my-research-at-mit",
+            },},{id: "news-i-was-awarded-the-national-science-foundation-graduate-research-fellowship-nsf-grfp-to-pursue-my-research-at-mit",
           title: 'I was awarded the National Science Foundation Graduate Research Fellowship (NSF GRFP) to...',
           description: "",
           section: "News",},{id: "news-i-started-my-internship-at-bristol-myers-squibb-as-a-machine-learning-intern",
