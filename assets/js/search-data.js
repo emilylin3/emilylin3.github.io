@@ -34,9 +34,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-started-my-internship-at-bristol-myers-squibb-as-a-machine-learning-intern-working-on-applying-and-developing-models-for-drug-discovery",
           title: 'I started my internship at Bristol Myers Squibb as a machine learning intern,...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-catalytic-micro-combustor",
+          title: 'catalytic micro-combustor',
+          description: "driving desorption in atmospheric water harvesters with energy-dense, autothermal combustion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
