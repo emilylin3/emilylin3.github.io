@@ -30,5 +30,5 @@ I am also currently pursuing an internship at Bristol Myers Squibb as a machine 
 
 In my free time, I enjoy playing badminton, hiking, biking, and trying to improve my German. 
 
-**Contact**: elin49 [dot] mit [dot] edu \n
+**Contact**: elin49 [dot] mit [dot] edu <br>
 **Links**: [Google Scholar](https://scholar.google.com/citations?user=_1tyTBcAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/emily-lin-9b559b143/)
