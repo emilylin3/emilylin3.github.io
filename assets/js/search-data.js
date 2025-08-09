@@ -44,11 +44,6 @@ ninja.data = [{
           description: "using IsothermNet and [dummy]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-catalytic-micro-combustion",
-          title: 'catalytic micro-combustion',
-          description: "driving desorption in atmospheric water harvesters with energy-dense, autothermal combustion",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
