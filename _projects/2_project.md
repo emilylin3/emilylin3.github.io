@@ -2,7 +2,7 @@
 layout: page
 title: adsorption property prediction for CO2 adsorption in metal-organic frameworks (MOFs)
 description: using IsothermNet and [dummy]
-img: assets/img/12.jpg
+img: assets/img/mof.gif
 importance: 1
 category: machine learning
 related_publications: true
