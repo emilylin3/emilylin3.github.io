@@ -24,7 +24,7 @@ To realize our micro-combustor design, we performed extensive optimization effor
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/combustor_setup.png" title="combustor setup" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/combustor_setup.jpg" title="combustor setup" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/combustor_cyclic.png" title="cyclic testing performance" class="img-fluid rounded z-depth-1" %}
