@@ -39,9 +39,9 @@ ninja.data = [{
           description: "driving desorption in atmospheric water harvesters with energy-dense, autothermal combustion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-catalytic-micro-combustion",
-          title: 'catalytic micro-combustion',
-          description: "driving desorption in atmospheric water harvesters with energy-dense, autothermal combustion",
+            },},{id: "projects-adsorption-property-prediction-for-co2-adsorption-in-metal-organic-frameworks-mofs",
+          title: 'adsorption property prediction for CO2 adsorption in metal-organic frameworks (MOFs)',
+          description: "using IsothermNet and [dummy]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-catalytic-micro-combustion",
