@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student @ MIT
+subtitle: Ph.D. Student @ <strong>MIT</strong>
 
 profile:
   align: right
