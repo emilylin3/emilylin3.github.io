@@ -5,7 +5,7 @@ description: driving desorption in atmospheric water harvesters with energy-dens
 img: assets/img/12.jpg
 importance: 1
 category: applied science
-related_publications: false
+related_publications: true
 ---
 
 We developed energy-dense, entrainment-driven, catalytic microcombustors that are suitable for portable devices, like atmospheric water harvesters (AWH). We designed each component of these combustors, from the microchannels and ohmic heaters to the entrainment manifold, performing various ablation studies to tune the combustor parameters and ultimately improve fuel savings and reaction rates/fuel conversion efficiency, as governed by kinetics/transport in the channels. We fabricated the microcombustors and subsequently performed cycling tests to demonstrate ultra-high thermal mass heating (>41 times its own mass). These combustors are then integrated into an in-house AWH device, along with proper controls *via* Arduino, to drive the desorption cycles in the water production process. We successfully demonstrated the combustors' and device's performance during rigorous, controlled testing in an environmental chamber (from ambient temperatures as low as 1.7°C to as high as 43.3°C) {% cite LIN2023117014 %}. 
