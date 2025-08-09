@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Research Assistant @ Device Research Lab (DRL) and Deng Energy and Nanotechnology Group (DENG)
+subtitle: Ph.D. Student @ Device Research Lab (DRL) and Deng Energy and Nanotechnology Group (DENG)
 
 profile:
   align: right
