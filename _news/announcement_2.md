@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my internship at Bristol Myers Squibb as a machine learning intern!
+I started my internship at Bristol Myers Squibb as a machine learning intern, working on applying and developing models for drug discovery!
