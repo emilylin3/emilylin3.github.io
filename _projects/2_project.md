@@ -30,6 +30,8 @@ To summarize, we offer two methods for uptake and ΔH<sub>ads</sub> prediction: 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fig6.svg" title="results" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fig4.png" title="descriptor" class="img-fluid rounded z-depth-1" %}
     </div>
