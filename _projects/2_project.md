@@ -1,7 +1,7 @@
 ---
 layout: page
 title: adsorption property prediction for CO2 adsorption in metal-organic frameworks (MOFs)
-description: using IsothermNet and [dummy]
+description: using IsothermNet and IsothermODE
 img: assets/img/mof.gif
 importance: 1
 category: machine learning
@@ -46,4 +46,14 @@ To summarize, our work makes the following contributions:
 - Establish a new benchmarking standard for future works (for uptake and $\Delta$ H<sub>ads</sub> predictions)
 - Generates tight uncertainty bounds for all $\Delta$ H<sub>ads</sub> predictions to accurately quantify GCMC-based stochasticity
 - Demonstrated IsothermODE’s prowess in reconstructing full, high-resolution uptake / $\Delta$ H<sub>ads</sub> isotherms with exceptional interpolation/extrapolation potential, given sparse data (even with large missing intervals)
-  
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fig1_v2.png" title="model" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fig4_v2.png" title="predicted isotherms" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
