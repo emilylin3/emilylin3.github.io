@@ -41,7 +41,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-adsorption-property-prediction-for-co2-adsorption-in-metal-organic-frameworks-mofs",
           title: 'adsorption property prediction for CO2 adsorption in metal-organic frameworks (MOFs)',
-          description: "using IsothermNet and [dummy]",
+          description: "using IsothermNet and IsothermODE",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{
